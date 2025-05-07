@@ -1,0 +1,90 @@
+# Base de Conhecimento – BestContent AI
+
+> Documento de referência para agentes de IA no n8n. Última atualização: 7 de maio de 2025.
+
+## 1. Visão Geral
+BestContent AI é uma plataforma brasileira de inteligência artificial focada em acelerar a criação, gestão e automação de conteúdos digitais. Combina modelos de IA de ponta com ferramentas próprias para design, agendamento e chat, atuando como “ponte entre a criatividade humana e a IA” para tornar a produção de conteúdo fácil e acessível.
+
+---
+## 2. Portfólio de Produtos
+
+### 2.1 BestContent Social
+- Proposta de valor: gera até 50 variações de design para um único insight, já adaptadas à identidade visual (cores, logo e segmento) do usuário.
+- Principais recursos
+  - Gerador de ideias de conteúdo e sugestões diárias.
+  - Editor de design assistido por IA (texto, fontes, cores, ícones, upload de imagens).
+  - Adaptação automática da marca e remoção de fundo.
+  - Calendário editorial + agendamento 1‑clique para Instagram e outras redes.
+  - Legendas em 20+ idiomas, hashtags inteligentes e download em múltiplos formatos.
+- Quem usa: empreendedores, freelancers, creators e social‑media managers.
+- Métricas: +35 000 usuários, 224 000 conteúdos criados, avaliação média 4,9/5.
+- Fluxo simplificado: 1) conectar Instagram → 2) digitar ideia → 3) escolher design → 4) editar → 5) agendar/publicar.
+
+### 2.2 BestContent Chat
+- Proposta de valor: acesso unificado às melhores IAs do mercado com uma única conta.
+- Modelos disponíveis: GPT‑4o, Gemini 1.5, Llama 3.2, Claude 3.5, DeepSeek, Flux (gerador de imagens) e “BestContent Omni” (roteador automático de prompts).
+- Recursos complementares
+  - Biblioteca de +100 prompts produtivos prontos para uso.
+  - Assistentes de IA especializados (SEO, copywriting, design etc.).
+  - Geração de imagens hiper‑realistas.
+  - Infraestrutura com arquitetura LLM descentralizada focada em privacidade.
+- Test‑drive: conta gratuita com limite de uso; pagamento somente se desejar continuar.
+
+### 2.3 BestContent Advanced
+Pacote “tudo‑em‑um” que concede acesso ilimitado ao Social e ao Chat, além de descontos e atualizações antecipadas.
+
+---
+## 3. Planos e Preços (MAI/2025 – BRL)
+Produto | Modalidade | Preço efetivo | Economia | Observações
+--------|------------|---------------|----------|-------------
+Social | Anual | R$ 24,90/mês | 28 % OFF | Postagens ilimitadas, suporte 24/7
+Social | Mensal | R$ 34,90/mês | — | Cancelamento livre
+Chat | Anual | R$ 49,90/mês | 20 % OFF | Acesso a todos os modelos, geração de imagens
+Chat | Trimestral | R$ 55,90/mês | 8 % OFF | Teste inicial mais curto
+Advanced | Anual | US$ 69,90/mês (aprox. R$ 350) | 30 % OFF | Inclui Social + Chat ilimitados
+*Todos os planos contam com versão gratuita restrita; pagamento via cartão, possibilidade de parcelamento.*
+
+---
+## 4. Missão, Visão e História
+- Missão: centralizar todo o trabalho de criação de conteúdo, devolvendo tempo às pessoas e democratizando a distribuição digital.
+- Visão: tornar‑se o maior estúdio digital do mundo impulsionado por IA.
+- Origem: fundada em Fortaleza‑CE por Adenilson Santos (CEO) e Hicaro Sindeaux (CMO/COO) após identificarem a dificuldade de manter redes sociais atualizadas em outras startups. O time fundador inclui Rafael Mota (Product Designer), Samuel Nunes (Visual Designer) e Thiago Elias (Dev).
+
+---
+## 5. Métricas e Prova Social
+- +35 000 usuários cadastrados.
+- 4,9/5 de satisfação média.
+- +224 000 conteúdos gerados.
+- Cases e depoimentos de clientes (Fabiana Viana, Jorge Henrique, Miria Cruz etc.).
+
+---
+## 6. Confiabilidade e Suporte
+- Empresa registrada sob CNPJ 49.908.998/0001‑16.
+- Atuação transparente no Reclame Aqui, respondendo 100 % das reclamações.
+- Suporte humanizado via WhatsApp e e‑mail, tutoriais em YouTube e área de suporte.
+
+---
+## 7. Perguntas Frequentes Essenciais
+1. BestContent é gratuito? – Ferramentas possuem versões free; uso ilimitado exige assinatura.
+2. Qual a diferença entre Social e Chat? – Social cria e agenda posts; Chat integra múltiplas IAs para conversação, análise e geração de imagens.
+3. Segurança dos dados? – Infraestrutura descentralizada de LLM; dados não são compartilhados externamente.
+4. Quem pode usar? – Profissionais, empreendedores, estudantes; qualquer pessoa que queira acelerar criação de conteúdo.
+5. Idiomas suportados? – 20+ idiomas nas legendas, inclusive PT‑BR, EN, ES, FR, IT.
+
+---
+## 8. Passo a Passo de Onboarding
+1. Criar conta (e‑mail + senha) → 2. Escolher produto → 3. Explorar versão gratuita → 4. Assinar plano desejado (opcional) → 5. Seguir tutoriais para primeiros resultados.
+
+---
+## 9. Integrações e Extensões
+- API pública em desenvolvimento.
+- WhatsApp (contato vendas/suporte).
+- Redes sociais para login/registro de marca (Instagram).
+- YouTube para tutoriais.
+
+---
+## 10. Glossário Rápido
+- Omni: modelo proprietário que direciona prompts ao LLM mais adequado.
+- Prompt Library: repositório de comandos prontos otimizados.
+
+Fim do documento
