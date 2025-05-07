@@ -1,72 +1,57 @@
+Base de Conhecimento – BestContent AI
 
 1. Visão Geral
-BestContent AI é uma plataforma brasileira de inteligência artificial focada em acelerar a criação, gestão e automação de conteúdos digitais. Combina modelos de IA de ponta com ferramentas próprias para design, agendamento e chat, atuando como “ponte entre a criatividade humana e a IA” para tornar a produção de conteúdo fácil e acessível.
+   BestContent AI é uma plataforma brasileira de IA que acelera criação, gestão e automação de conteúdos digitais. Combina modelos de ponta com ferramentas de design, agendamento e chat, atuando como ponte entre criatividade humana e IA para tornar a produção fácil e acessível.
 
-2. Portfólio de Produtos
+2. Produtos
 
-2.1 BestContent Social
-- Proposta de valor: gera até 50 variações de design para um único insight, já adaptadas à identidade visual (cores, logo e segmento) do usuário.
-- Principais recursos
-  - Gerador de ideias de conteúdo e sugestões diárias.
-  - Editor de design assistido por IA (texto, fontes, cores, ícones, upload de imagens).
-  - Adaptação automática da marca e remoção de fundo.
-  - Calendário editorial + agendamento 1‑clique para Instagram e outras redes.
-  - Legendas em 20+ idiomas, hashtags inteligentes e download em múltiplos formatos.
-- Quem usa: empreendedores, freelancers, creators e social‑media managers.
-- Métricas: +35 000 usuários, 224 000 conteúdos criados, avaliação média 4,9/5.
-- Fluxo simplificado: 1) conectar Instagram → 2) digitar ideia → 3) escolher design → 4) editar → 5) agendar/publicar.
+2.1 BestContent Social
+– Gera até 50 variações de design adaptadas à sua marca
+– Sugestões diárias de conteúdo
+– Editor assistido por IA (texto, fontes, cores, ícones, upload)
+– Remoção de fundo automática
+– Calendário editorial e agendamento com um clique
+– Legendas em 20+ idiomas e hashtags inteligentes
 
-2.2 BestContent Chat
-- Proposta de valor: acesso unificado às melhores IAs do mercado com uma única conta.
-- Modelos disponíveis: GPT‑4o, Gemini 1.5, Llama 3.2, Claude 3.5, DeepSeek, Flux (gerador de imagens) e “BestContent Omni” (roteador automático de prompts).
-- Recursos complementares
-  - Biblioteca de +100 prompts produtivos prontos para uso.
-  - Assistentes de IA especializados (SEO, copywriting, design etc.).
-  - Geração de imagens hiper‑realistas.
-  - Infraestrutura com arquitetura LLM descentralizada focada em privacidade.
-- Test‑drive: conta gratuita com limite de uso; pagamento somente se desejar continuar.
+2.2 BestContent Chat
+– Acesso unificado a múltiplas IAs (GPT‑4o, Gemini, Llama, Claude, Flux, etc.)
+– Biblioteca com 100+ prompts prontos
+– Assistentes especializados (SEO, copywriting, design)
+– Geração de imagens hiper‑realistas
+– Infraestrutura descentralizada para privacidade
 
-2.3 BestContent Advanced
-Pacote “tudo‑em‑um” que concede acesso ilimitado ao Social e ao Chat, além de descontos e atualizações antecipadas.
+2.3 BestContent Advanced
+Pacote completo com Social e Chat ilimitados, descontos e acesso antecipado a novidades.
 
+3. Planos e preços (maio/2025)
+   Social mensal: R\$ 34,90/mês
+   Social anual: R\$ 24,90/mês (28 % OFF), postagens ilimitadas, suporte 24/7
+   Chat trimestral: R\$ 55,90/mês (8 % OFF)
+   Chat anual: R\$ 49,90/mês (20 % OFF)
+   Advanced anual: US\$ 69,90/mês (≈ R\$ 350, 30 % OFF)
 
-3. Planos e Preços — maio / 2025
-
-SOCIAL
-• Anual – R$ 24,90/mês (28 % OFF) · postagens ilimitadas, suporte 24/7
-• Mensal – R$ 34,90/mês · cancelamento livre
-
-CHAT
-• Anual – R$ 49,90/mês (20 % OFF) · acesso a todos os modelos, geração de imagens
-• Trimestral – R$ 55,90/mês (8 % OFF) · teste inicial mais curto
-
-ADVANCED
-• Anual – US$ 69,90/mês (≈ R$ 350) (30 % OFF) · inclui Social + Chat ilimitados
-
-▸ Todos os planos contam com versão gratuita restrita.
-▸ Pagamento via cartão com possibilidade de parcelamento.
+Todos os planos têm versão gratuita restrita. Pagamento por cartão, com parcelamento.
 
 4. Missão, Visão e História
-- Missão: centralizar todo o trabalho de criação de conteúdo, devolvendo tempo às pessoas e democratizando a distribuição digital.
-- Visão: tornar‑se o maior estúdio digital do mundo impulsionado por IA.
-- Origem: fundada em Fortaleza‑CE por Adenilson Santos (CEO) e Hicaro Sindeaux (CMO/COO) após identificarem a dificuldade de manter redes sociais atualizadas em outras startups. O time fundador inclui Rafael Mota (Product Designer), Samuel Nunes (Visual Designer) e Thiago Elias (Dev).
+   Missão: centralizar criação de conteúdo, devolver tempo e democratizar distribuição digital.
+   Visão: ser o maior estúdio digital do mundo movido a IA.
+   Fundadores: Adenilson Santos (CEO) e Hicaro Sindeaux (CMO/COO), com equipe inicial de designers e desenvolvedores em Fortaleza‑CE.
 
-5. Métricas e Prova Social
-- +35 000 usuários cadastrados.
-- 4,9/5 de satisfação média.
-- +224 000 conteúdos gerados.
-- Cases e depoimentos de clientes (Fabiana Viana, Jorge Henrique, Miria Cruz etc.).
+5. Métricas e prova social
+   Mais de 35 000 usuários, avaliação média 4,9/5, mais de 224 000 conteúdos gerados. Depoimentos de clientes como Fabiana Viana, Jorge Henrique e Miria Cruz.
 
-6. Confiabilidade e Suporte
-- Empresa registrada sob CNPJ 49.908.998/0001‑16.
-- Atuação transparente no Reclame Aqui, respondendo 100 % das reclamações.
-- Suporte humanizado via WhatsApp e e‑mail, tutoriais em YouTube e área de suporte.
+6. Confiabilidade e suporte
+   CNPJ 49.908.998/0001‑16. Responde 100 % das reclamações no Reclame Aqui. Suporte via WhatsApp, e‑mail, tutoriais no YouTube e help‑desk.
 
-7. Perguntas Frequentes Essenciais
-1. BestContent é gratuito? – Ferramentas possuem versões free; uso ilimitado exige assinatura.
-2. Qual a diferença entre Social e Chat? – Social cria e agenda posts; Chat integra múltiplas IAs para conversação, análise e geração de imagens.
-3. Segurança dos dados? – Infraestrutura descentralizada de LLM; dados não são compartilhados externamente.
-4. Quem pode usar? – Profissionais, empreendedores, estudantes; qualquer pessoa que queira acelerar criação de conteúdo.
-5. Idiomas suportados? – 20+ idiomas nas legendas, inclusive PT‑BR, EN, ES, FR, IT.
+7. FAQ essenciais
 
-Faça o reembolso nesse link: google.com.br
+1) É gratuito? Versão free; ilimitado com assinatura.
+2) Diferença Social vs Chat? Social cria e agenda posts; Chat integra IAs para conversação e geração de imagens.
+3) Segurança? Infraestrutura descentralizada; dados não são compartilhados.
+4) Quem pode usar? Qualquer pessoa: profissionais, empreendedores, estudantes.
+5) Idiomas? Legendas em 20+ idiomas (PT‑BR, EN, ES, FR, IT).
+
+Links úteis
+– Cadastro/assinatura: pay.bestcontent.ai/social/br/premium/pro/monthly
+– Cancelamento: bestcontent.ai/support/como-cancelar-minha-assinatura
+– Suporte: bestcontent.ai/support
