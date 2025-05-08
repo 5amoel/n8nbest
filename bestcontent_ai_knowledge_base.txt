@@ -1,57 +1,201 @@
-Base de Conhecimento – BestContent AI
+BestContent AI — Documento de Treinamento do Bot
+Versão: 2025‑05‑07
 
-1. Visão Geral
-   BestContent AI é uma plataforma brasileira de IA que acelera criação, gestão e automação de conteúdos digitais. Combina modelos de ponta com ferramentas de design, agendamento e chat, atuando como ponte entre criatividade humana e IA para tornar a produção fácil e acessível.
+============================================================
+0. COMO USAR ESTE DOCUMENTO
+------------------------------------------------------------
+Este arquivo foi pensado para ser carregado como base de conhecimento (knowledge base)
+de um agente de IA (chatbot).  
+• Cada seção cobre um tópico específico; mantenha a lógica hierárquica.  
+• O bot deve responder em 🇧🇷 português natural, tom profissional‑amigável, direto ao ponto.  
+• Quando pertinente, ofereça CTA (“Experimente Grátis”, “Fale com o Comercial”) e links
+  canônicos (ver seção 15).  
+• Evite jargões técnicos com o usuário final; simplifique.  
+• Mantenha coerência com as políticas LGPD e Privacidade (ver seção 9).  
 
-2. Produtos
+============================================================
+1. VISÃO GERAL
+------------------------------------------------------------
+Missão (“Bridge human creativity with AI”)  
+A BestContent AI é uma plataforma brasileira de inteligência artificial
+focada em acelerar a **criação, gestão e automação** de conteúdos digitais.  
+Combina modelos de IA de ponta (GPT‑4o, Gemini 1.5, Llama 3.2, etc.) com
+ferramentas próprias de design, agendamento e chat, atuando como **ponte entre
+a criatividade humana e a IA** para tornar a produção de conteúdo *fácil,
+eficiente e acessível*.
 
-2.1 BestContent Social
-– Gera até 50 variações de design adaptadas à sua marca
-– Sugestões diárias de conteúdo
-– Editor assistido por IA (texto, fontes, cores, ícones, upload)
-– Remoção de fundo automática
-– Calendário editorial e agendamento com um clique
-– Legendas em 20+ idiomas e hashtags inteligentes
+Sede: Fortaleza‑CE • +35 000 usuários • 4,9/5 satisfação média • +224 000 conteúdos gerados.
 
-2.2 BestContent Chat
-– Acesso unificado a múltiplas IAs (GPT‑4o, Gemini, Llama, Claude, Flux, etc.)
-– Biblioteca com 100+ prompts prontos
-– Assistentes especializados (SEO, copywriting, design)
-– Geração de imagens hiper‑realistas
-– Infraestrutura descentralizada para privacidade
+============================================================
+2. PORTFÓLIO DE PRODUTOS
+------------------------------------------------------------
 
-2.3 BestContent Advanced
-Pacote completo com Social e Chat ilimitados, descontos e acesso antecipado a novidades.
+2.1 BestContent Social – **IA Geradora de Conteúdo**
+   » Cria até **50 variações** de design a partir de um único insight.  
+   » Adaptação automática à identidade visual (cores, logo, segmento).  
+   » Editor drag‑and‑drop (texto, fontes, cores, ícones, upload).  
+   » Calendário editorial + **agendamento 1‑clique** (Instagram, Facebook, LinkedIn…).  
+   » Remoção de fundo integrada, banco de imagens stock.  
+   » Geração de posts em 13 idiomas.  
+   » Casos de uso populares: pequenas empresas, infoprodutores, agências.
 
-3. Planos e preços (maio/2025)
-   Social mensal: R\$ 34,90/mês
-   Social anual: R\$ 24,90/mês (28 % OFF), postagens ilimitadas, suporte 24/7
-   Chat trimestral: R\$ 55,90/mês (8 % OFF)
-   Chat anual: R\$ 49,90/mês (20 % OFF)
-   Advanced anual: US\$ 69,90/mês (≈ R\$ 350, 30 % OFF)
+   **FAQs Essenciais**  
+   – *“O que é o BestContent Social?”*  
+     IA que cria designs e legendas para múltiplas redes em segundos.  
+   – *“É grátis?”* Teste gratuito até 5 posts; ilimitado via plano premium.  
+   – *“Preciso saber design?”* Não. A IA cuida da estética.
 
-Todos os planos têm versão gratuita restrita. Pagamento por cartão, com parcelamento.
+2.2 BestContent Chat – **Hub de Modelos LLM**
+   » Acesso em um único login aos principais modelos: **GPT‑4o, Gemini 1.5, Llama 3.2,
+     Claude 3.5, Flux Pro** e BestContent Omni (roteamento inteligente).  
+   » Biblioteca com **100+ prompts** prontos focados em produtividade.  
+   » Agentes de IA especializados (programação, marketing, jurídico, etc.).  
+   » Geração de imagens hiper‑realistas (Flux Pro).  
+   » Integração direta com o Social (ex.: gerar legenda no Chat e exportar).  
+   » 10 mensagens/mês grátis; ilimitado via assinatura.
 
-4. Missão, Visão e História
-   Missão: centralizar criação de conteúdo, devolver tempo e democratizar distribuição digital.
-   Visão: ser o maior estúdio digital do mundo movido a IA.
-   Fundadores: Adenilson Santos (CEO) e Hicaro Sindeaux (CMO/COO), com equipe inicial de designers e desenvolvedores em Fortaleza‑CE.
+   **FAQs Essenciais**  
+   – *“Qual a diferença para o Social?”* Social cria posts; Chat é multillm para texto,
+     código e imagens.  
+   – *“Existe app móvel?”* Acesso via navegador mobile; app nativo em desenvolvimento.
 
-5. Métricas e prova social
-   Mais de 35 000 usuários, avaliação média 4,9/5, mais de 224 000 conteúdos gerados. Depoimentos de clientes como Fabiana Viana, Jorge Henrique e Miria Cruz.
+2.3 BestContent Advanced – **Suite Completa**  
+   » Inclui Social + Chat ilimitados num único pacote.  
+   » Permite uso comercial amplo (agências e equipes).  
+   » Descontos progressivos para licenças adicionais.
 
-6. Confiabilidade e suporte
-   CNPJ 49.908.998/0001‑16. Responde 100 % das reclamações no Reclame Aqui. Suporte via WhatsApp, e‑mail, tutoriais no YouTube e help‑desk.
+============================================================
+3. PLANOS & PREÇOS (MAI/ 2025 – BRL)
+------------------------------------------------------------
+• Social Anual – R$ 24,90/mês (28 % OFF)  
+• Social Mensal – R$ 34,90/mês  
+• Chat Anual – R$ 49,90/mês (20 % OFF)  
+• Chat Trimestral – R$ 55,90/mês (8 % OFF)  
+• Advanced Anual – US$ 69,90/mês (~R$ 350) (30 % OFF)  
+*Todos os planos incluem versão gratuita limitada; pagamento via cartão,
+parcelável; cancelamento simples.*
 
-7. FAQ essenciais
+============================================================
+4. DIFERENCIAIS COMPETITIVOS
+------------------------------------------------------------
+✓ IA proprietária **BestContent Omni** que roteia automaticamente para o modelo LLM
+  ideal, otimizando custo/velocidade.  
+✓ Designs 100 % alinhados à identidade visual (não são templates genéricos).  
+✓ Uso integrado: Chat ↔ Social ↔ Agendador.  
+✓ Suporte humano 24/7 em 🇧🇷 português.  
+✓ Infraestrutura cloud escalável e data‑center brasileiro, minimizando latência.  
 
-1) É gratuito? Versão free; ilimitado com assinatura.
-2) Diferença Social vs Chat? Social cria e agenda posts; Chat integra IAs para conversação e geração de imagens.
-3) Segurança? Infraestrutura descentralizada; dados não são compartilhados.
-4) Quem pode usar? Qualquer pessoa: profissionais, empreendedores, estudantes.
-5) Idiomas? Legendas em 20+ idiomas (PT‑BR, EN, ES, FR, IT).
+============================================================
+5. PROVAS SOCIAIS (TRECHOS SELECIONADOS)
+------------------------------------------------------------
+“*Economizo muito tempo com sugestões de post e legendas.*” — Fabiana Viana  
+“*Deu outra cara pro meu perfil. Top demais!*” — Jorge Henrique  
+“*CHOCADA com o quanto essa plataforma é útil, amando demais!*” — Miria Cruz  
+“A melhor coisa que fiz! Não fico sem.” — Maria Luiza Dantas
 
-Links úteis
-– Cadastro/assinatura: pay.bestcontent.ai/social/br/premium/pro/monthly
-– Cancelamento: bestcontent.ai/support/como-cancelar-minha-assinatura
-– Suporte: bestcontent.ai/support
+============================================================
+6. CASOS DE USO FREQUENTES
+------------------------------------------------------------
+• Pequenos empreendedores que gerenciam redes sozinhos.  
+• Agências de marketing que precisam escalar produção sem aumentar head‑count.  
+• Profissionais liberais (advogados, médicos, coaches).  
+• Criadores de conteúdo que buscam consistência multi‑idioma.  
+• Times de growth que precisam de prompts e dashboards centralizados.
+
+============================================================
+7. FUNCIONALIDADES DETALHADAS (SOCIAL)
+------------------------------------------------------------
+● Gerador de Posts (feed quadrado, retrato, stories, carrossel)  
+● Gerador de Ideias de Posts  
+● Gerador de Stories  
+● Agendador de Posts multi‑conta  
+● Editor visual (camadas, fontes, cores, drag‑and‑drop)  
+● Reposicionamento automático de elementos em diferentes formatos  
+● Banco de imagens royalty‑free integrado  
+● Exportação direta para Instagram, Facebook, LinkedIn, TikTok (soon)  
+● Exportação em PNG, MP4 (stories animados), PDF
+
+============================================================
+8. MODELOS E TECNOLOGIAS
+------------------------------------------------------------
+• **LLMs:** GPT‑4o (OpenAI), Gemini 1.5 (Google), Llama 3.2 (Meta),
+  Claude 3.5 (Anthropic), DeepSeek, Flux Pro (imagens).  
+• **Arquitetura:** LLM descentralizada → roteamento Omni.  
+• **Editor de Design:** Canvas + Figma API‑like engine.  
+• **Infra:** AWS São Paulo + CDN CloudFront; backups criptografados S3.  
+
+============================================================
+9. SEGURANÇA, LGPD & CONFIABILIDADE
+------------------------------------------------------------
+• Empresa brasileira regularizada (BESTCONTENT AI BRASIL LTDA • CNPJ 49.908.998/0001‑16).  
+• Políticas de Privacidade alinhadas à LGPD, GDPR e CCPA.  
+• Dados trafegam via HTTPS TLS 1.3; criptografia AES‑256 em repouso.  
+• Armazenamento de prompts/conteúdos opcionais; usuário pode apagar dados.  
+• Resposta às solicitações de titulares ≤ 72 h.  
+• Monitoramento 24/7, SLA 99,9 %.  
+
+============================================================
+10. ONBOARDING & SUPORTE
+------------------------------------------------------------
+1) Crie conta (e‑mail ou Google).  
+2) Escolha ferramenta para teste (Social ou Chat).  
+3) Complete setup de identidade visual (logo, cores).  
+4) Gere primeiros conteúdos (ou inicie chat).  
+5) Explore tutoriais em vídeo dentro do dashboard.  
+6) Para dúvidas → Área de Suporte ou WhatsApp Comercial.  
+
+Suporte oficial: suporte@bestcontent.ai • WhatsApp +55 85 99999‑9999
+
+============================================================
+11. FAQ COMPILADO
+------------------------------------------------------------
+• **A BestContent tem ferramentas gratuitas?** Sim. Versão grátis limitada.  
+• **Qual a diferença entre Social e Chat?** Social cria posts; Chat oferece IAs de texto/imagem.  
+• **O Chat tem app mobile?** Acesso via navegador mobile; app em breve.  
+• **A IA melhora engajamento no Instagram?** Sim, stories/posts otimizados aumentam
+  visualizações e interação.  
+• **Formatos de post suportados?** Quadrado 1:1 (1050×1050), retrato 4:5
+  (1050×1350), stories 9:16 (1080×1920).  
+• **Cancelamento e reembolso?** Cancelamento a qualquer momento; reembolso
+  proporcional em até 7 dias conforme Código de Defesa do Consumidor.
+
+============================================================
+12. TERMOS COMERCIAIS & PROMOS
+------------------------------------------------------------
+• Promo “1º mês por R$ 0,99” válida só para novos clientes Social.  
+• Descontos não cumulativos.  
+• Licenças Advanced incluem 3‑usuários; usuários extras R$ 19,90/mês.  
+
+============================================================
+13. GLOSSÁRIO
+------------------------------------------------------------
+• **LLM** – Large Language Model  
+• **Prompt** – Frase ou instrução enviada ao modelo de IA.  
+• **CTA** – Call to Action (ex.: “Experimente Grátis”).  
+• **Omni** – Modelo proprietário BestContent que roteia prompts.  
+• **Flux Pro** – Modelo de IA para geração de imagens hiper‑realistas.  
+
+============================================================
+14. TOM DE VOZ & PERSONALIDADE DO BOT
+------------------------------------------------------------
+• Confiante, cordial, entusiástico.  
+• Incentiva a produtividade; evita termos excessivamente técnicos.  
+• Responde em português; usa emojis moderadamente (🔥, 🚀) só quando contexto for
+  informal.  
+• Sempre sugere próximos passos claros (ex.: criar conta, ver tutorial).  
+• Transparente sobre limites de versões gratuitas.  
+
+============================================================
+15. LINKS CANÔNICOS
+------------------------------------------------------------
+Site: https://bestcontent.ai  
+Social: https://bestcontent.ai/pt/products/social  
+Chat: https://bestcontent.ai/pt/products/chat  
+Advanced: https://bestcontent.ai/pt/products/advanced  
+Planos: https://bestcontent.ai/pt#planos  
+Suporte: https://bestcontent.ai/pt/support  
+Política de Privacidade: https://bestcontent.ai/privacy  
+Termos de Uso: https://bestcontent.ai/terms  
+
+============================================================
+FIM DO DOCUMENTO
